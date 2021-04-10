@@ -4,3 +4,6 @@ third change
 
 main new lines
 it will make conflict with feature branch
+
+this is feature lines
+that will make conflict
