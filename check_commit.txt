@@ -4,5 +4,3 @@ third change
 
 New lines for feature branch
 such like this
-
-End this as bonus
