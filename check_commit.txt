@@ -1,3 +1,6 @@
 try to commit it
 changed from browser
 third change
+
+New lines for feature branch
+such like this
