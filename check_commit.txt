@@ -2,5 +2,5 @@ try to commit it
 changed from browser
 third change
 
-New lines for feature branch
-such like this
+main new lines
+it will make conflict with feature branch
